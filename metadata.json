@@ -1,0 +1,6 @@
+{
+  "name": "Hồ sơ số Di sản Ba Na F04",
+  "description": "Hồ sơ số thực hành nghi lễ vòng đời và lễ bỏ mả (Pơ thi) của người Ba Na – Làng Pyang, thị trấn Kông Chro, tỉnh Gia Lai. Sản phẩm thực tập phi lợi nhuận Đợt 15 FPT Polytechnic & IMTA TECH.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
